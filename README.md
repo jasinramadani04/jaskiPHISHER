@@ -1,4 +1,4 @@
-<!-- jaskiPHISHER -->
+<!-- Jaskiphisher -->
 
 <p align="center">
   <img src=".imgs/logo.png">
@@ -50,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/jasinramadani/jaskiphisher.git
+$ git clone git://github.com/jasinramadani04/jaskiphisher.git
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
